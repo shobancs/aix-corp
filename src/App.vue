@@ -3,7 +3,7 @@
   <v-app>
     <v-system-bar app color="grey">
       <router-link to="/" class="header_logo">
-        <img src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2016/12/ai_02.jpg" />
+        <!--img src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2016/12/ai_02.jpg" /-->
       </router-link>
       <router-link to="/" class="u-hover">AI Software Coporation</router-link>
 
