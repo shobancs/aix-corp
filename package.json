@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "vue-cli-service serve"
+    "start": "npm install -g @vue/cli;vue-cli-service serve"
   },
   "main": "dist/vue-router.common.js",
   "module": "dist/vue-router.esm.js",
